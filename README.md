@@ -6,7 +6,7 @@ npm i crypto
 npm i @pixelfactory/privatebin
 npm i bs58
 ```
-## Usage
+## Execute script
 ```js
 node script.js
 ```
